@@ -588,5 +588,6 @@ AICodeGenerator/
 ├── CMakeLists.txt
 ├── Makefile
 ├── .gitignore
+├── build.sln
 ├── LICENSE
 └── README.md
